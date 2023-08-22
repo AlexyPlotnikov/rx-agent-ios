@@ -1,0 +1,222 @@
+
+/* Class = "UILabel"; text = "25.09.2018"; ObjectID = "0fK-3T-vqQ"; */
+"0fK-3T-vqQ.text" = "25.09.2018";
+
+/* Class = "UILabel"; text = "Идет загрузка с сервера"; ObjectID = "1Ix-ss-mlM"; */
+"1Ix-ss-mlM.text" = "Идет загрузка с сервера";
+
+/* Class = "UILabel"; text = "+7"; ObjectID = "1d9-bu-mUu"; */
+"1d9-bu-mUu.text" = "+7";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "23E-qH-TYI"; */
+"23E-qH-TYI.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "В работе"; ObjectID = "2M3-dt-UF3"; */
+"2M3-dt-UF3.title" = "В работе";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3JD-2t-jHw"; */
+"3JD-2t-jHw.text" = "Label";
+
+/* Class = "UILabel"; text = "25.09.2018"; ObjectID = "3Uu-1v-7nl"; */
+"3Uu-1v-7nl.text" = "25.09.2018";
+
+/* Class = "UILabel"; text = "Ваш телефон:"; ObjectID = "8Sg-aY-JkR"; */
+"8Sg-aY-JkR.text" = "Ваш телефон:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8fF-jI-lkJ"; */
+"8fF-jI-lkJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8to-HW-oUh"; */
+"8to-HW-oUh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EcO-Gn-4MZ"; */
+"EcO-Gn-4MZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FDh-pR-lar"; */
+"FDh-pR-lar.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Лента"; ObjectID = "GAX-4g-cdW"; */
+"GAX-4g-cdW.title" = "Лента";
+
+/* Class = "UITextField"; placeholder = "Ваш номер телефона"; ObjectID = "GXy-Vg-lMF"; */
+"GXy-Vg-lMF.placeholder" = "Ваш номер телефона";
+
+/* Class = "UITabBarItem"; title = "Поддержка"; ObjectID = "GZX-gd-xaV"; */
+"GZX-gd-xaV.title" = "Поддержка";
+
+/* Class = "UITextField"; placeholder = "Имя держателя карты"; ObjectID = "HDU-Ty-hE7"; */
+"HDU-Ty-hE7.placeholder" = "Имя держателя карты";
+
+/* Class = "UIButton"; normalTitle = "ВЫЙТИ ИЗ АККАУНТА"; ObjectID = "Hja-3O-UqL"; */
+"Hja-3O-UqL.normalTitle" = "ВЫЙТИ ИЗ АККАУНТА";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IHR-Rq-Rj1"; */
+"IHR-Rq-Rj1.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "InJ-U6-wmn"; */
+"InJ-U6-wmn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JL9-yI-c9e"; */
+"JL9-yI-c9e.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ПРИЛОЖИТЬ ДОКУМЕНТЫ"; ObjectID = "K8r-LG-Jhf"; */
+"K8r-LG-Jhf.normalTitle" = "ПРИЛОЖИТЬ ДОКУМЕНТЫ";
+
+/* Class = "UILabel"; text = "28032"; ObjectID = "Kj4-SO-N3z"; */
+"Kj4-SO-N3z.text" = "28032";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "MjH-D5-Agd"; */
+"MjH-D5-Agd.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "28032"; ObjectID = "Npn-My-1Re"; */
+"Npn-My-1Re.text" = "28032";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "OEI-uh-Moe"; */
+"OEI-uh-Moe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ЛЕНТА"; ObjectID = "OT6-nu-0jr"; */
+"OT6-nu-0jr.text" = "ЛЕНТА";
+
+/* Class = "UILabel"; text = "28032"; ObjectID = "Pi1-ou-gCc"; */
+"Pi1-ou-gCc.text" = "28032";
+
+/* Class = "UILabel"; text = "В РАБОТЕ"; ObjectID = "QKU-eA-Qfe"; */
+"QKU-eA-Qfe.text" = "В РАБОТЕ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QuA-K4-zDf"; */
+"QuA-K4-zDf.text" = "Label";
+
+/* Class = "UILabel"; text = "Е-ОСАГО"; ObjectID = "R8h-v7-e00"; */
+"R8h-v7-e00.text" = "Е-ОСАГО";
+
+/* Class = "UITextView"; text = "Ваш комментарий"; ObjectID = "RCK-5Y-hyY"; */
+"RCK-5Y-hyY.text" = "Ваш комментарий";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "S2E-h1-Rrl"; */
+"S2E-h1-Rrl.text" = "Label";
+
+/* Class = "UILabel"; text = "Номер карты"; ObjectID = "SYo-rU-9yn"; */
+"SYo-rU-9yn.text" = "Номер карты";
+
+/* Class = "UITabBarItem"; title = "Добавить"; ObjectID = "TEl-1d-Xsu"; */
+"TEl-1d-Xsu.title" = "Добавить";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UCq-Dm-hyh"; */
+"UCq-Dm-hyh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UcP-sC-52S"; */
+"UcP-sC-52S.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Укажите имя"; ObjectID = "XmK-3q-9uO"; */
+"XmK-3q-9uO.placeholder" = "Укажите имя";
+
+/* Class = "UILabel"; text = "Месяц/Год"; ObjectID = "YN5-UX-fku"; */
+"YN5-UX-fku.text" = "Месяц/Год";
+
+/* Class = "UITextField"; placeholder = "Укажите дату начала "; ObjectID = "aY1-aK-2sZ"; */
+"aY1-aK-2sZ.placeholder" = "Укажите дату начала ";
+
+/* Class = "UILabel"; text = "Введите номер карты"; ObjectID = "d7m-UQ-jvA"; */
+"d7m-UQ-jvA.text" = "Введите номер карты";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eDN-bM-SUY"; */
+"eDN-bM-SUY.text" = "Label";
+
+/* Class = "UILabel"; text = "ФИО"; ObjectID = "eXQ-rB-Syp"; */
+"eXQ-rB-Syp.text" = "ФИО";
+
+/* Class = "UILabel"; text = "Комментарий (пожелание к заявке)"; ObjectID = "fpo-EO-BS0"; */
+"fpo-EO-BS0.text" = "Комментарий (пожелание к заявке)";
+
+/* Class = "UIButton"; normalTitle = "Выберите период страхования"; ObjectID = "gbF-dJ-YYq"; */
+"gbF-dJ-YYq.normalTitle" = "Выберите период страхования";
+
+/* Class = "UIButton"; normalTitle = "Готово"; ObjectID = "h4B-vs-Wfv"; */
+"h4B-vs-Wfv.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Для входа в приложение используйте логин и пароль от личного кабинета на сайте rx-agent.ru"; ObjectID = "h4y-Rf-Tdn"; */
+"h4y-Rf-Tdn.text" = "Для входа в приложение используйте логин и пароль от личного кабинета на сайте rx-agent.ru";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hqs-2I-AqQ"; */
+"hqs-2I-AqQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iav-c0-sNU"; */
+"iav-c0-sNU.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "isP-9w-cyW"; */
+"isP-9w-cyW.text" = "Label";
+
+/* Class = "UILabel"; text = "25.09.2018"; ObjectID = "j1g-U4-inF"; */
+"j1g-U4-inF.text" = "25.09.2018";
+
+/* Class = "UILabel"; text = "Госномер"; ObjectID = "jEc-Xg-zna"; */
+"jEc-Xg-zna.text" = "Госномер";
+
+/* Class = "UILabel"; text = "Договор:"; ObjectID = "jhn-8T-j3k"; */
+"jhn-8T-j3k.text" = "Договор:";
+
+/* Class = "UILabel"; text = "СТРАХОВАТЕЛЬ"; ObjectID = "knR-uS-JgP"; */
+"knR-uS-JgP.text" = "СТРАХОВАТЕЛЬ";
+
+/* Class = "UILabel"; text = "Введенные ранее данные:"; ObjectID = "mYZ-jV-tZf"; */
+"mYZ-jV-tZf.text" = "Введенные ранее данные:";
+
+/* Class = "UILabel"; text = "Имя держателя карты"; ObjectID = "mb2-9R-id4"; */
+"mb2-9R-id4.text" = "Имя держателя карты";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mnH-gM-LH2"; */
+"mnH-gM-LH2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ПОЗВОНИТЬ"; ObjectID = "omI-0W-3o5"; */
+"omI-0W-3o5.normalTitle" = "ПОЗВОНИТЬ";
+
+/* Class = "UILabel"; text = "Баланс:"; ObjectID = "ovp-pp-LwU"; */
+"ovp-pp-LwU.text" = "Баланс:";
+
+/* Class = "UILabel"; text = "Ваше имя:"; ObjectID = "p1w-gY-5tU"; */
+"p1w-gY-5tU.text" = "Ваше имя:";
+
+/* Class = "UIButton"; normalTitle = "ДАЛЕЕ"; ObjectID = "p65-an-RbH"; */
+"p65-an-RbH.normalTitle" = "ДАЛЕЕ";
+
+/* Class = "UILabel"; text = "28032"; ObjectID = "pEO-34-5qO"; */
+"pEO-34-5qO.text" = "28032";
+
+/* Class = "UILabel"; text = "ПЕРИОД СТРАХОВАНИЯ:"; ObjectID = "qYf-Ns-KSK"; */
+"qYf-Ns-KSK.text" = "ПЕРИОД СТРАХОВАНИЯ:";
+
+/* Class = "UILabel"; text = "ПЕРИОД СТРАХОВАНИЯ:"; ObjectID = "qra-UB-sIq"; */
+"qra-UB-sIq.text" = "ПЕРИОД СТРАХОВАНИЯ:";
+
+/* Class = "UITabBarItem"; title = "Нвстройки"; ObjectID = "qrl-iJ-gEn"; */
+"qrl-iJ-gEn.title" = "Нвстройки";
+
+/* Class = "UILabel"; text = "Идет отправка"; ObjectID = "rAh-MB-BO9"; */
+"rAh-MB-BO9.text" = "Идет отправка";
+
+/* Class = "UILabel"; text = "Период страхования:"; ObjectID = "rw8-Qt-zwE"; */
+"rw8-Qt-zwE.text" = "Период страхования:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "s9d-uQ-K5b"; */
+"s9d-uQ-K5b.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tP1-Mz-ppp"; */
+"tP1-Mz-ppp.text" = "Label";
+
+/* Class = "UILabel"; text = "Отправка документов..."; ObjectID = "uaL-pA-dNc"; */
+"uaL-pA-dNc.text" = "Отправка документов...";
+
+/* Class = "UILabel"; text = "НАСТРОЙКИ"; ObjectID = "w3y-Xg-UUx"; */
+"w3y-Xg-UUx.text" = "НАСТРОЙКИ";
+
+/* Class = "UILabel"; text = "ПОДДЕРЖКА"; ObjectID = "wv7-u3-gqD"; */
+"wv7-u3-gqD.text" = "ПОДДЕРЖКА";
+
+/* Class = "UILabel"; text = "Марка автомобиля"; ObjectID = "wwA-Wn-P4W"; */
+"wwA-Wn-P4W.text" = "Марка автомобиля";
+
+/* Class = "UILabel"; text = "25.09.2018"; ObjectID = "xBo-ju-oyf"; */
+"xBo-ju-oyf.text" = "25.09.2018";
+
+/* Class = "UILabel"; text = "Дата начала:"; ObjectID = "xxD-B0-XhY"; */
+"xxD-B0-XhY.text" = "Дата начала:";
